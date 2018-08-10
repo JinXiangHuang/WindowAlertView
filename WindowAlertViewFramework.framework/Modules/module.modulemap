@@ -1,0 +1,6 @@
+framework module WindowAlertViewFramework {
+  umbrella header "WindowAlertViewFramework.h"
+
+  export *
+  module * { export * }
+}
